@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm amine mejdoubi</h1>
 <h3 align="center">A tech enthusiast</h3>
 
-<img width="800" height="500" src="https://i.ibb.co/PDv4cbr/Firefly-animated-guy-tech-enthusiast-1302.jpg">
 
 - 🔭 I’m currently working on **multipe projects**
 
