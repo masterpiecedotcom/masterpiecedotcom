@@ -2,11 +2,11 @@
 <h3 align="center">A tech enthusiast</h3>
 
 
-- 🔭 I’m currently working on **multipe projects**
+<!-- - 🔭 I’m currently working on **multipe projects**
 
 - 🤝 I’m looking for help with **a non-profit platform**
 
-- 📫 How to reach me **fuster.media@gmail.com**
+- 📫 How to reach me **fuster.media@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
